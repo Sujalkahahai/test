@@ -3,8 +3,9 @@ Commands :-
 git log or git status
 for staging for all - git add .
 for specific - git add . filename
-git commit -a desc_msg
+git commit -m desc_msg
 to know no of version - git status
 to upload on GitHub - git push origin main
 to change id - git config --global user.email emailed
                git config --global user.name username
+to check branch - git branch
